@@ -75,6 +75,7 @@ header nav ul li {
     background-position: center;
 }
 
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -105,16 +106,19 @@ header nav ul li {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    border: dotted goldenrod;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    border: solid goldenrod;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    border: dotted goldenrod;
 }
 
 .benefit-lead img {
@@ -133,6 +137,9 @@ header nav ul li {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+.benefits article {
+    padding: 10px;
 }
 
 .search-engine-optimization {
