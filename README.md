@@ -5,7 +5,7 @@ Shalom Dawit
 edited 8/11/2020
 
 Notes
-*Upgrades were also tested using Chrome Web Dev Tools
+*Upgrades were also tested using Chrome Web Dev Tools and other browsers (minus Opera)
 -added alt attributes to images
 -fixed broken link
 -added hover class property to links
@@ -13,5 +13,5 @@ Notes
 -changed images' qualities for site loading time decrease using image reduction website (http://www.imageoptimizer.net)
 -changed div elements to html5 semantic elements
 -added borders and decoration around some text that seemed to blend into each other too much
-
+-added Meyerweb.com's reset.css
 
