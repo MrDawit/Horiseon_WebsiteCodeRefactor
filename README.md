@@ -1,8 +1,9 @@
-Horiseion_Homework 1: Improving a website							
+Horiseion_Homework 1: code refactor							
 
 Shalom Dawit
 8/4/2020
 edited 8/11/2020
+edited 8/12/2020
 
 Notes
 *Upgrades were also tested using Chrome Web Dev Tools and other browsers (minus Opera)
