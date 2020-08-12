@@ -1,4 +1,4 @@
-Horiseion_Homework 1: code refactor							
+Horiseon_Homework 1: code refactor							
 
 Shalom Dawit
 8/4/2020
