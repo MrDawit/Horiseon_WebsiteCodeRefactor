@@ -42,7 +42,7 @@ header {
 
 header section {
     display: inline-block;
-    font-size: 48px;
+    font-size: 68px;
 }
 
 .seo {
@@ -68,7 +68,7 @@ header nav ul li {
 
 #float-right{
     float:right;
-  /*  padding:20px; */
+    padding:20px; 
 }
 
 .hero {
