@@ -67,6 +67,11 @@ header nav ul li {
     margin-left: 25px;
 }
 
+#float-right{
+    float:right;
+    padding:20px;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -75,7 +80,6 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-
 
 .float-left {
     float: left;
