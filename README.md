@@ -1,5 +1,6 @@
 # Horiseon: website code refactor	
 live link: https://MrDawit.github.io/\
+<img src="./HORISEON_marketing agency.gif"> 
 Shalom Dawit\
 LinkedIn:https://www.linkedin.com/in/shalom-dawit-a0a5a4126\
 GitHub:https://github.com/MrDawit\
@@ -12,7 +13,8 @@ edited 8/12/2020
 Tasked to refactor a site under current html and css standards, in addition to making the site design look the way it is supposed to w/ FIXED code.
 
 ## Technologies Used
-* HTML,CSS
+* HTML
+* CSS
 
 ## Notes
 * Upgrades were also tested using Chrome Web Dev Tools and other browsers (minus Opera)\
