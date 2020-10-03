@@ -1,5 +1,5 @@
 # Horiseon: website code refactor	
-live link: https://MrDawit.github.io/\
+live link: https://MrDawit.github.io \
 <img src="./HORISEON_marketing agency.gif"> 
 Shalom Dawit\
 LinkedIn:https://www.linkedin.com/in/shalom-dawit-a0a5a4126\
